@@ -10,3 +10,4 @@ lib/**/lib*.a
 
 # Specific binary name
 hello-world
+hello-world-tests

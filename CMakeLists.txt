@@ -8,3 +8,4 @@ project(hello-world VERSION 1.0)
 
 add_subdirectory(app)
 add_subdirectory(lib)
+add_subdirectory(test)

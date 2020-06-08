@@ -1,0 +1,12 @@
+CMakeCache.txt
+CMakeFiles
+cmake_install.cmake
+Makefile
+build
+dist
+
+# For libraries built internally
+lib/**/lib*.a
+
+# Specific binary name
+hello-world
